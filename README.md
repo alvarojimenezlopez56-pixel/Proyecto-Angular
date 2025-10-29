@@ -3,34 +3,32 @@ Angular es un framework de desarrollo web de código abierto creado y mantenido 
 
 🔹 Características principales:
 
-Basado en TypeScript:
+-Basado en TypeScript:
 
-Angular utiliza TypeScript, un superconjunto de JavaScript que permite tipado estático y detección de errores en tiempo de compilación.
+1.Angular utiliza TypeScript, un superconjunto de JavaScript que permite tipado estático y detección de errores en tiempo de compilación.
+2.Esto hace que el código sea más seguro y fácil de mantener.
 
-Esto hace que el código sea más seguro y fácil de mantener.
+-Arquitectura basada en componentes:
 
-Arquitectura basada en componentes:
+1.Las aplicaciones se dividen en componentes reutilizables.
+2.Cada componente tiene su HTML, CSS y TypeScript, lo que mejora la organización y modularidad.
 
-Las aplicaciones se dividen en componentes reutilizables.
+-Data binding bidireccional (Two-way binding):
 
-Cada componente tiene su HTML, CSS y TypeScript, lo que mejora la organización y modularidad.
+1.Los cambios en la interfaz de usuario se reflejan automáticamente en los datos y viceversa, lo que simplifica la sincronización entre la vista y el modelo.
 
-Data binding bidireccional (Two-way binding):
+-Inyección de dependencias:
 
-Los cambios en la interfaz de usuario se reflejan automáticamente en los datos y viceversa, lo que simplifica la sincronización entre la vista y el modelo.
+1.Angular maneja automáticamente la creación y gestión de objetos y servicios, lo que facilita la escalabilidad y la prueba de aplicaciones.
 
-Inyección de dependencias:
+-Routing integrado:
 
-Angular maneja automáticamente la creación y gestión de objetos y servicios, lo que facilita la escalabilidad y la prueba de aplicaciones.
+1.Permite gestionar múltiples vistas y rutas dentro de la aplicación sin recargar la página, lo que facilita la creación de Single Page Applications (SPA).
 
-Routing integrado:
+-CLI potente:
 
-Permite gestionar múltiples vistas y rutas dentro de la aplicación sin recargar la página, lo que facilita la creación de Single Page Applications (SPA).
+1.Angular CLI (Command Line Interface) permite generar componentes, servicios, módulos y realizar compilaciones rápidas, agilizando el desarrollo.
 
-CLI potente:
+-Soporte para pruebas:
 
-Angular CLI (Command Line Interface) permite generar componentes, servicios, módulos y realizar compilaciones rápidas, agilizando el desarrollo.
-
-Soporte para pruebas:
-
-Angular está diseñado para ser testeable, con soporte para unit tests y end-to-end tests integrados.
+1.Angular está diseñado para ser testeable, con soporte para unit tests y end-to-end tests integrados.
