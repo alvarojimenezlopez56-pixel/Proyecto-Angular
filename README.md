@@ -1,6 +1,5 @@
 # Proyecto-Angular
 Angular es un framework de desarrollo web creado por Google que permite construir aplicaciones web modernas, interactivas y dinámicas, especialmente aplicaciones de una sola página (SPA, Single Page Applications).
-
 En pocas palabras: es una herramienta que te ayuda a crear sitios web complejos donde el contenido puede cambiar sin necesidad de recargar la página.
 
 Características principales:
