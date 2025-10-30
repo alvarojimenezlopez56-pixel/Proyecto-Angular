@@ -5,8 +5,8 @@ Características principales:
 
 -Basado en TypeScript:
 
-1. Angular utiliza TypeScript, un superconjunto de JavaScript que permite tipado estático y detección de errores en tiempo de compilación.
-2. Esto hace que el código sea más seguro y fácil de mantener.
+  - Subpaso Angular utiliza TypeScript, un superconjunto de JavaScript que permite tipado estático y detección de errores en tiempo de compilación.
+  - Subpaso Esto hace que el código sea más seguro y fácil de mantener.
 
 -Arquitectura basada en componentes:
 
