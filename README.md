@@ -2,37 +2,13 @@
 Angular es un framework de desarrollo web creado por Google que permite construir aplicaciones web modernas, interactivas y dinámicas, especialmente aplicaciones de una sola página.
 En pocas palabras: es una herramienta que te ayuda a crear sitios web complejos donde el contenido puede cambiar sin necesidad de recargar la página.
 
-Características principales:
+-Cómo funciona
 
--Basado en TypeScript:
+Angular funciona dividiendo la aplicación en componentes reutilizables, cada uno con su propio HTML, CSS y TypeScript. Gracias al data binding bidireccional, los cambios en los datos se reflejan automáticamente en la interfaz de usuario y viceversa. Además, Angular utiliza inyección de dependencias para gestionar servicios y objetos de forma eficiente, y su routing integrado permite navegar entre vistas dentro de la misma aplicación sin recargar la página. Todo esto hace que el desarrollo sea más estructurado, modular y fácil de mantener.
 
-  - Angular utiliza TypeScript, un superconjunto de JavaScript que permite tipado estático y detección de errores en tiempo de compilación.
-  - Esto hace que el código sea más seguro y fácil de mantener.
+-Para qué sirve y en qué casos se usa
 
--Arquitectura basada en componentes:
-
-  - Las aplicaciones se dividen en componentes reutilizables.
-  - Cada componente tiene su HTML, CSS y TypeScript, lo que mejora la organización y modularidad.
-
--Data binding bidireccional (Two-way binding):
-
-  - Los cambios en la interfaz de usuario se reflejan automáticamente en los datos y viceversa, lo que simplifica la sincronización entre la vista y el modelo.
-
--Inyección de dependencias:
-
-  - Angular maneja automáticamente la creación y gestión de objetos y servicios, lo que facilita la escalabilidad y la prueba de aplicaciones.
-
--Routing integrado:
-
-  - Permite gestionar múltiples vistas y rutas dentro de la aplicación sin recargar la página, lo que facilita la creación de Single Page Applications (SPA).
-
--CLI potente:
-
-  - Angular CLI (Command Line Interface) permite generar componentes, servicios, módulos y realizar compilaciones rápidas, agilizando el desarrollo.
-
--Soporte para pruebas:
-
-  - Angular está diseñado para ser testeable, con soporte para unit tests y end-to-end tests integrados.
+Angular sirve para desarrollar aplicaciones web modernas y dinámicas, donde la información debe actualizarse sin recargar la página. Se utiliza especialmente en aplicaciones empresariales, paneles de control, sistemas de administración, tiendas online o cualquier proyecto que requiera una interfaz interactiva y modular. Facilita el desarrollo front-end estructurado, la colaboración en equipo y la escalabilidad de proyectos complejos, gracias a su CLI, soporte para pruebas y organización basada en componentes.
 
 # Pasos de instalación
 -Actualizar el sistema.
