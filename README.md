@@ -1,3 +1,4 @@
+
 # Proyecto-Angular
 Angular es un framework de desarrollo web creado por Google que permite construir aplicaciones web modernas, interactivas y dinámicas, especialmente aplicaciones de una sola página.
 En pocas palabras: es una herramienta que te ayuda a crear sitios web complejos donde el contenido puede cambiar sin necesidad de recargar la página.
@@ -30,3 +31,4 @@ Una vez instalada la CLI, se puede crear un nuevo proyecto Angular usando ng new
 -Ejecutar la aplicación.
 
 Finalmente, se entra en la carpeta del proyecto y se ejecuta la aplicación con ng serve --open, lo que inicia un servidor local y abre automáticamente el navegador para ver la aplicación en funcionamiento. En este caso, mediante 'http://localhost:4200' se puede entrar también, ya que por defecto, Angular se crea en el puerto 4200 del host.
+
