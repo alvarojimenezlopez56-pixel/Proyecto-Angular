@@ -32,3 +32,5 @@ Una vez instalada la CLI, se puede crear un nuevo proyecto Angular usando ng new
 
 Finalmente, se entra en la carpeta del proyecto y se ejecuta la aplicación con ng serve --open, lo que inicia un servidor local y abre automáticamente el navegador para ver la aplicación en funcionamiento. En este caso, mediante 'http://localhost:4200' se puede entrar también, ya que por defecto, Angular se crea en el puerto 4200 del host.
 
+# Video demostrativo
+https://www.loom.com/share/1b22f45010af4e84964a4b322a9de509
